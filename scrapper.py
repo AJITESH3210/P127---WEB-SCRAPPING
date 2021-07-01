@@ -3,6 +3,8 @@ import requests
 import pandas as pd
 import csv
 import time
+import random
+import numpy as np 
 
 url = 'https://en.wikipedia.org/wiki/List_of_brightest_stars_and_other_record_stars'
 
